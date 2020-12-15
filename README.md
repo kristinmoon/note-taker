@@ -2,7 +2,7 @@
   [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
 
   ## Description
-  This is an easy-to-use online note-taking application utilizing Express.js.
+  This is an easy-to-use online note-taking application utilizing Express.js. [Click Here](https://frozen-eyrie-52480.herokuapp.com/) to check it out!
 
   ## Table Of Contents
   * [Installation](#installation)
