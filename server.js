@@ -44,7 +44,7 @@ app.post('/api/notes', (req, res) => {
   // set unique id
   req.body.id = uuidv4();
 
-  // add note to JSON file and notes array in this function
+  // add note to JSON file and notes array
   let newNote = myNotes;
   newNote.push(req.body);
 
